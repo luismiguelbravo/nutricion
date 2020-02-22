@@ -1,4 +1,3 @@
-| Primer encabezado | Segundo encabezado |
-| ------------- | ------------- |
-| Contenido de la celda  | Contenido de la celda  |
-| Contenido de la celda  | Contenido de la celda  |
+| nombre | cantidad | Calorías |
+| ------------- | ------------- | ------------- | 
+| Semillas de soja | 100 gramos  |446 |
